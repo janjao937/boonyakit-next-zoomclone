@@ -2,27 +2,27 @@ const sidebarLinks=[
     {
         lable:"Home",
         route:"/",
-        imgUrl:"/icon/Home.svg",
+        imgUrl:"/icons/Home.svg",
     },
     {
         lable:"Upcoming",
         route:"/upcoming",
-        imgUrl:"/icon/Upcomming.svg",
+        imgUrl:"/icons/upcoming.svg",
     },
     {
         lable:"Previous",
         route:"/previous",
-        imgUrl:"/icon/Previous.svg",
+        imgUrl:"/icons/Previous.svg",
     },
     {
         lable:"Recordings",
         route:"/recordings",
-        imgUrl:"/icon/video.svg",
+        imgUrl:"/icons/video.svg",
     },
     {
         lable:"Personal Room",
         route:"/personal-room",
-        imgUrl:"/icon/add-personal.svg",
+        imgUrl:"/icons/add-personal.svg",
     },
 ]
 
